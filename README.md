@@ -1,1 +1,2 @@
-# Agri_Disease_Classification
+# Crop_Disease_Classifier
+
